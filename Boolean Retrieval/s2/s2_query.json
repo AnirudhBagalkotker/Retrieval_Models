@@ -1,0 +1,404 @@
+{
+      "queries": [
+            {
+                  "qid": "1",
+                  "query": "deep learning"
+            },
+            {
+                  "qid": "2",
+                  "query": "artificial intelligence"
+            },
+            {
+                  "qid": "3",
+                  "query": "information retrieval"
+            },
+            {
+                  "qid": "4",
+                  "query": "machine learning"
+            },
+            {
+                  "qid": "5",
+                  "query": "question answering"
+            },
+            {
+                  "qid": "6",
+                  "query": "noun phrases"
+            },
+            {
+                  "qid": "7",
+                  "query": "penn treebank"
+            },
+            {
+                  "qid": "8",
+                  "query": "speech recognition"
+            },
+            {
+                  "qid": "9",
+                  "query": "data mining"
+            },
+            {
+                  "qid": "10",
+                  "query": "computer vision"
+            },
+            {
+                  "qid": "11",
+                  "query": "reinforcement learning"
+            },
+            {
+                  "qid": "12",
+                  "query": "natural language"
+            },
+            {
+                  "qid": "13",
+                  "query": "autoencoder"
+            },
+            {
+                  "qid": "14",
+                  "query": "ontology"
+            },
+            {
+                  "qid": "15",
+                  "query": "sentiment analysis"
+            },
+            {
+                  "qid": "16",
+                  "query": "sap"
+            },
+            {
+                  "qid": "17",
+                  "query": "lstm"
+            },
+            {
+                  "qid": "18",
+                  "query": "natural language processing"
+            },
+            {
+                  "qid": "19",
+                  "query": "semantic web"
+            },
+            {
+                  "qid": "20",
+                  "query": "mooc"
+            },
+            {
+                  "qid": "21",
+                  "query": "human computer interaction"
+            },
+            {
+                  "qid": "22",
+                  "query": "eye movement clustering"
+            },
+            {
+                  "qid": "23",
+                  "query": "semantic relations"
+            },
+            {
+                  "qid": "24",
+                  "query": "efficient estimation of word representations in vector space"
+            },
+            {
+                  "qid": "25",
+                  "query": "big data"
+            },
+            {
+                  "qid": "26",
+                  "query": "audio visual fusion"
+            },
+            {
+                  "qid": "27",
+                  "query": "object detection"
+            },
+            {
+                  "qid": "28",
+                  "query": "gfdm"
+            },
+            {
+                  "qid": "29",
+                  "query": "neural network"
+            },
+            {
+                  "qid": "30",
+                  "query": "generalized extreme value"
+            },
+            {
+                  "qid": "31",
+                  "query": "information geometry"
+            },
+            {
+                  "qid": "32",
+                  "query": "image panorama video"
+            },
+            {
+                  "qid": "33",
+                  "query": "data science"
+            },
+            {
+                  "qid": "34",
+                  "query": "semantic parsing"
+            },
+            {
+                  "qid": "35",
+                  "query": "augmented reality"
+            },
+            {
+                  "qid": "36",
+                  "query": "imbalanced data"
+            },
+            {
+                  "qid": "37",
+                  "query": "recommender system"
+            },
+            {
+                  "qid": "38",
+                  "query": "inverse reinforcement learning mixture"
+            },
+            {
+                  "qid": "39",
+                  "query": "transfer learning"
+            },
+            {
+                  "qid": "40",
+                  "query": "cnn"
+            },
+            {
+                  "qid": "41",
+                  "query": "dynamic programming segmentation"
+            },
+            {
+                  "qid": "42",
+                  "query": "natural language interface"
+            },
+            {
+                  "qid": "43",
+                  "query": "genetic algorithm"
+            },
+            {
+                  "qid": "44",
+                  "query": "prolog"
+            },
+            {
+                  "qid": "45",
+                  "query": "contact prediction"
+            },
+            {
+                  "qid": "46",
+                  "query": "wifi malware"
+            },
+            {
+                  "qid": "47",
+                  "query": "nsdi machine learning"
+            },
+            {
+                  "qid": "48",
+                  "query": "forensics and machine learning"
+            },
+            {
+                  "qid": "49",
+                  "query": "words to speech"
+            },
+            {
+                  "qid": "50",
+                  "query": "information theory"
+            },
+            {
+                  "qid": "51",
+                  "query": "morphology morphological"
+            },
+            {
+                  "qid": "52",
+                  "query": "category theory"
+            },
+            {
+                  "qid": "53",
+                  "query": "graph theory"
+            },
+            {
+                  "qid": "54",
+                  "query": "smart thermostat"
+            },
+            {
+                  "qid": "55",
+                  "query": "exploit vulnerability"
+            },
+            {
+                  "qid": "56",
+                  "query": "reinforcement learning and video game"
+            },
+            {
+                  "qid": "57",
+                  "query": "system health management"
+            },
+            {
+                  "qid": "58",
+                  "query": "spatial multi agent systems"
+            },
+            {
+                  "qid": "59",
+                  "query": "service composition"
+            },
+            {
+                  "qid": "60",
+                  "query": "mobile payment"
+            },
+            {
+                  "qid": "61",
+                  "query": "3 axis gantry"
+            },
+            {
+                  "qid": "62",
+                  "query": "softmax categorization"
+            },
+            {
+                  "qid": "63",
+                  "query": "cost aggregation"
+            },
+            {
+                  "qid": "64",
+                  "query": "chinese dialect"
+            },
+            {
+                  "qid": "65",
+                  "query": "depth camera"
+            },
+            {
+                  "qid": "66",
+                  "query": "mobile tcp traffic analysis"
+            },
+            {
+                  "qid": "67",
+                  "query": "collective learning"
+            },
+            {
+                  "qid": "68",
+                  "query": "robust production planning"
+            },
+            {
+                  "qid": "69",
+                  "query": "memory hierarchy"
+            },
+            {
+                  "qid": "70",
+                  "query": "hashing"
+            },
+            {
+                  "qid": "71",
+                  "query": "comparable corpora"
+            },
+            {
+                  "qid": "72",
+                  "query": "knowledge graph"
+            },
+            {
+                  "qid": "73",
+                  "query": "social media"
+            },
+            {
+                  "qid": "74",
+                  "query": "deep learning surveillance"
+            },
+            {
+                  "qid": "75",
+                  "query": "cryptography"
+            },
+            {
+                  "qid": "76",
+                  "query": "parametric max flow"
+            },
+            {
+                  "qid": "77",
+                  "query": "deep reinforcement learning"
+            },
+            {
+                  "qid": "78",
+                  "query": "varying weight grasp"
+            },
+            {
+                  "qid": "79",
+                  "query": "dirichlet process"
+            },
+            {
+                  "qid": "80",
+                  "query": "word embedding"
+            },
+            {
+                  "qid": "81",
+                  "query": "graph drawing"
+            },
+            {
+                  "qid": "82",
+                  "query": "robust principal component analysis"
+            },
+            {
+                  "qid": "83",
+                  "query": "differential evolution"
+            },
+            {
+                  "qid": "84",
+                  "query": "seq2seq"
+            },
+            {
+                  "qid": "85",
+                  "query": "document logical structure"
+            },
+            {
+                  "qid": "86",
+                  "query": "duality"
+            },
+            {
+                  "qid": "87",
+                  "query": "variable neighborhood search"
+            },
+            {
+                  "qid": "88",
+                  "query": "urban public transportation systems"
+            },
+            {
+                  "qid": "89",
+                  "query": "edx coursera"
+            },
+            {
+                  "qid": "90",
+                  "query": "fdir"
+            },
+            {
+                  "qid": "91",
+                  "query": "cryptography key management"
+            },
+            {
+                  "qid": "92",
+                  "query": "ontology construction"
+            },
+            {
+                  "qid": "93",
+                  "query": "go game"
+            },
+            {
+                  "qid": "94",
+                  "query": "personality trait"
+            },
+            {
+                  "qid": "95",
+                  "query": "sparse learning"
+            },
+            {
+                  "qid": "96",
+                  "query": "directed hypergraph"
+            },
+            {
+                  "qid": "97",
+                  "query": "inventory management"
+            },
+            {
+                  "qid": "98",
+                  "query": "clojure"
+            },
+            {
+                  "qid": "99",
+                  "query": "ontology semantic web"
+            },
+            {
+                  "qid": "100",
+                  "query": "convolutional neural network time series"
+            }
+      ]
+}

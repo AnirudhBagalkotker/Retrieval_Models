@@ -1,0 +1,124 @@
+{
+  "queries": [
+    {
+      "qid": "1",
+      "query": "deep l*ng"
+    },
+    {
+      "qid": "2",
+      "query": "artificial in*e"
+    },
+    {
+      "qid": "3",
+      "query": "*tion ret*val"
+    },
+    {
+      "qid": "4",
+      "query": "mac* learning"
+    },
+    {
+      "qid": "5",
+      "query": "question *nswering"
+    },
+    {
+      "qid": "6",
+      "query": "noun *ses"
+    },
+    {
+      "qid": "7",
+      "query": "*n tree*"
+    },
+    {
+      "qid": "8",
+      "query": "sp*h recognition"
+    },
+    {
+      "qid": "9",
+      "query": "data m*g"
+    },
+    {
+      "qid": "10",
+      "query": "computer v*n"
+    },
+    {
+      "qid": "11",
+      "query": "rein* learning"
+    },
+    {
+      "qid": "12",
+      "query": "natural lan*ge"
+    },
+    {
+      "qid": "13",
+      "query": "auto*"
+    },
+    {
+      "qid": "14",
+      "query": "on*y"
+    },
+    {
+      "qid": "15",
+      "query": "senti* analysis"
+    },
+    {
+      "qid": "16",
+      "query": "s*p"
+    },
+    {
+      "qid": "17",
+      "query": "l*m"
+    },
+    {
+      "qid": "18",
+      "query": "nat*l language *ing"
+    },
+    {
+      "qid": "19",
+      "query": "semantic we*"
+    },
+    {
+      "qid": "20",
+      "query": "mo*c"
+    },
+    {
+      "qid": "21",
+      "query": "hu* com*er interaction"
+    },
+    {
+      "qid": "22",
+      "query": "e* movement cl*g"
+    },
+    {
+      "qid": "23",
+      "query": "s*ic relations"
+    },
+    {
+      "qid": "24",
+      "query": "e*t est* of word re*s in v*r space"
+    },
+    {
+      "qid": "25",
+      "query": "big *ata"
+    },
+    {
+      "qid": "26",
+      "query": "a*o v*l f*sion"
+    },
+    {
+      "qid": "27",
+      "query": "o*ject *tion"
+    },
+    {
+      "qid": "28",
+      "query": "g*dm"
+    },
+    {
+      "qid": "29",
+      "query": "n*ural network"
+    },
+    {
+      "qid": "30",
+      "query": "genera* e*treme value"
+    }
+  ]
+}
